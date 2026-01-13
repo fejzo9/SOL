@@ -1,6 +1,6 @@
-# Samoorganizirajuće liste: Wikipedia Pageviews (NASP projekt)
+# Samoorganizirajuće liste: Wikipedia Pageviews (NASP projekat)
 
-Ovaj repozitorij sadrži Jupyter notebook za implementaciju i eksperimentalnu evaluaciju samoorganizirajućih lista (Self-Organizing Lists, SOL) nad realnim tragovima pristupa sa Wikipedia pageviews (01.01.2024.).
+Ovaj repozitorij sadrži Jupyter notebook za implementaciju i eksperimentalnu evaluaciju samoorganizirajućih lista (Self-Organizing Lists, SOL) nad realnim podacima pristupa sa Wikipedia pageviews (01.01.2024.).
 
 Fokus je na poređenju klasičnih heuristika:
 
@@ -20,8 +20,6 @@ nad velikim nizom pristupa člancima (heavy-tailed / Zipfova distribucija, visok
   - implementacije MTF, TR i CNT heuristika,
   - računanje ukupnog i prosječnog troška po pristupu,
   - osnovne grafove i tabelarni prikaz rezultata.
-
-*(Po potrebi ovdje dodaj i naziv fajla sa podacima, npr. `access_sequence_small.txt`.)*
 
 ---
 
